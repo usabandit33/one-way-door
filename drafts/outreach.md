@@ -18,3 +18,7 @@ Live page: https://one-way-door/
 No listing fee. Reply if a number or name should change.
 
 Matt M.
+
+## Log
+- 2026-09-09: sent to five original inboxes.
+- 2026-09-10: info@wildliferemovalchicago.com bounced. Removed from chicago.html. Sent same template to bobcattrap1965@gmail.com (BobCat Trapping & Building).
