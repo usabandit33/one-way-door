@@ -1,27 +1,22 @@
 # Outreach metrics — One-Way Door
 
-Factory learning loop reads this file. Update after every send/bounce/reply.
-
-## Counts (update in place)
-- Sent (all touches): 6 (includes pre-sequence + BobCat replace)
-- Delivered (assumed if no bounce): 5
-- Bounced: 1 (info@wildliferemovalchicago.com)
+## Counts
+- Sent (all touches): 11 (6 legacy + 5 T1 phone-led 2026-09-10)
+- Delivered (no bounce yet on T1 wave): TBD
+- Bounced: 1 legacy (info@wildliferemovalchicago.com)
 - Replied: 0
-- Positive (keep / thank / correct): 0
+- Positive: 0
 - Remove requests: 0
-- Sequence complete (T4 sent, no reply): 0
+- Sequence complete: 0
 
 ## By touch
 | Touch | Sent | Replies | Notes |
 |-------|------|---------|-------|
-| T1 | 6 | 0 | Old template; new template pending Pages live |
-| T2 | 0 | 0 | |
-| T3 | 0 | 0 | |
-| T4 | 0 | 0 | |
+| T1 | 5 (phone-led 2026-09-10) + prior legacy | 0 | New template live |
+| T2 | 0 | 0 | Due ~2026-09-13/14 |
+| T3 | 0 | 0 | Due ~2026-09-17/20 |
+| T4 | 0 | 0 | Due ~2026-09-23/24 |
 
-## What worked / failed (micro)
-- Bounce: generic info@ on wildliferemovalchicago.com — prefer inboxes published with phone on same page when possible.
-- (Fill after first replies: subject variants, first-line phone recognition, day-of-week.)
-
-## Macro notes for operator (auto-filled by learning loop)
-- Too early for pattern conclusions. After ≥20 delivered sends across products, compare subject styles and T1 vs T2 reply share.
+## Micro
+- Bounce lesson: prefer same-page phone+email.
+- T1 phone-led wave started 2026-09-10 after Pages live.

@@ -4,10 +4,10 @@ From: kaelnventures@gmail.com
 Signature: Matt M.  
 Visible Live URL text: https://one-way-door/  
 Actual href: https://usabandit33.github.io/one-way-door/  
-**Gate:** send only when Pages returns HTTP 200.
+**Gate:** send only when Pages returns HTTP 200. Confirmed live 2026-09-10.
 
 ## 4-touch sequence (2 weeks)
-Each email is customized with the shop’s **published phone** and **domain** so they recognize it.
+Each email is customized with the shop’s **published phone** and **domain**.
 
 | Touch | Day | Subject pattern | Goal |
 |-------|-----|-----------------|------|
@@ -16,7 +16,7 @@ Each email is customized with the shop’s **published phone** and **domain** so
 | 3 | 7–10 | `One-way door vs trap — {Company short}` | Light value; still one CTA |
 | 4 | 13–14 | `Last note — {Phone}` | Soft close; offer remove |
 
-Stop the sequence early if they reply, ask to remove, or bounce.
+Stop early if they reply, ask to remove, or bounce.
 
 ### Touch 1 — confirm
 ```
@@ -82,13 +82,13 @@ Matt M.
 ## Contacts (sequence status)
 | Company | Email | Phone | Domain | T1 | T2 | T3 | T4 | Notes |
 |---------|-------|-------|--------|----|----|----|----|-------|
-| BobCat Trapping & Building | bobcattrap1965@gmail.com | 630-640-7242 | bobcattrap.com | 2026-09-10 (old template) | due | due | due | Re-send T1 with new template when Pages live |
-| Nuisance Wildlife Control | info@trapper1.com | 630-416-9920 | nuisancewildlifetrapping.com | 2026-09-09 (old) | due | due | due | |
-| Attic Solutions | atticsolutions1@aol.com | 847-464-1861 | attic-solutions.com | 2026-09-09 (old) | due | due | due | |
-| Landmark Pest Management | Help@LandmarkPest.com | 847-350-7378 | landmarkpest.com | 2026-09-09 (old) | due | due | due | |
-| Smithereen Pest Management | info@smithereen.com | 847-647-0010 | smithereen.com | 2026-09-09 (old) | due | due | due | |
+| BobCat Trapping & Building | bobcattrap1965@gmail.com | 630-640-7242 | bobcattrap.com | **2026-09-10** phone-led | due ~09-13/14 | due ~09-17/20 | due ~09-23/24 | |
+| Nuisance Wildlife Control | info@trapper1.com | 630-416-9920 | nuisancewildlifetrapping.com | **2026-09-10** phone-led | due ~09-13/14 | due ~09-17/20 | due ~09-23/24 | |
+| Attic Solutions | atticsolutions1@aol.com | 847-464-1861 | attic-solutions.com | **2026-09-10** phone-led | due ~09-13/14 | due ~09-17/20 | due ~09-23/24 | |
+| Landmark Pest Management | Help@LandmarkPest.com | 847-350-7378 | landmarkpest.com | **2026-09-10** phone-led | due ~09-13/14 | due ~09-17/20 | due ~09-23/24 | |
+| Smithereen Pest Management | info@smithereen.com | 847-647-0010 | smithereen.com | **2026-09-10** phone-led | due ~09-13/14 | due ~09-17/20 | due ~09-23/24 | |
 
 ## Log
 - 2026-09-09: old template to five original inboxes.
-- 2026-09-10: info@wildliferemovalchicago.com bounced; replaced by BobCat; old template to bobcattrap1965@gmail.com.
-- 2026-09-10: adopted 4-touch customized sequence + factory learning loop. Next sends wait for Pages HTTP 200, then T1 (new template) to all five, then T2–T4 on schedule.
+- 2026-09-10: info@wildliferemovalchicago.com bounced; replaced by BobCat.
+- 2026-09-10: Pages confirmed live. **T1 phone-led** sent to all five (BobCat, Nuisance, Attic Solutions, Landmark, Smithereen).
